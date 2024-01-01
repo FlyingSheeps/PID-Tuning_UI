@@ -1,7 +1,7 @@
 # PID-Tuning_UI
 practice PID-Tune
 
-# Usage
+## Usage
 copy below commands with Ctrl+C and paste them with Ctrl+Alt+V into your terminal or command prompt.
 ```
 git clone https://github.com/FlyingSheeps/PID-Tuning_UI.git
@@ -17,3 +17,6 @@ source .venv/bin/activate
 pip3 install -r requirements.txt
 python3 PID-GUI.py
 ```
+## screenshot (wuth comments)
+![screenshot](/screenshot.png)
+
