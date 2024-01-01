@@ -17,6 +17,6 @@ source .venv/bin/activate
 pip3 install -r requirements.txt
 python3 PID-GUI.py
 ```
-## screenshot (wuth comments)
+## screenshot (with comments)
 ![screenshot](/screenshot.png)
 
