@@ -19,4 +19,3 @@ python3 PID-GUI.py
 ```
 ## screenshot (with comments)
 ![screenshot](/screenshot.png)
-
