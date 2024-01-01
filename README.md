@@ -9,3 +9,11 @@ cd PID-Tuning_UI
 pip3 install -r requirements.txt
 python3 PID-GUI.py
 ```
+
+If you want to use venv, copy below command. (Linux only)
+```
+python3 -m venv .venv
+source .venv/bin/activate
+pip3 install -r requirements.txt
+python3 PID-GUI.py
+```
